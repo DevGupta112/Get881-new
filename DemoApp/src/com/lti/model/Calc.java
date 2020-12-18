@@ -4,5 +4,7 @@ public class Calc {
 	public void add(int num1,int num2) {
 		System.out.println("Summation= "+"Hello"+(num1+num2));
 	}
-	Added bla bla line
+	public void prod(int num1,int num2) {
+		System.out.println("Product= "+"Hello"+(num1*num2));
+	}
 }
